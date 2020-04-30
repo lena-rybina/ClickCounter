@@ -85,7 +85,7 @@ class ViewController: UIViewController {
     @objc func incrementCount () {
         self.count += 1
         self.label.text = "\(self.count)"
-        self.label2.text = "Clicks added!"
+        self.label2.text = "Clicks added!!!"
     }
     
     @objc func changeBackgroundColor () {
